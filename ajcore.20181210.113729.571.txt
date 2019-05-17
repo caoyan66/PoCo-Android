@@ -1,0 +1,373 @@
+---- AspectJ Properties ---
+AspectJ Compiler 1.8.12 built on Friday Oct 20, 2017 at 21:58:11 GMT
+---- Dump Properties ---
+Dump file: ajcore.20181210.113729.571.txt
+Dump reason: org.aspectj.weaver.BCException
+Dump on exception: true
+Dump at exit condition: abort
+---- Exception Information ---
+---- System Properties ---
+java.vendor=JetBrains s.r.o
+com.apple.mrj.application.live-resize=false
+sun.java.launcher=SUN_STANDARD
+idea.executable=studio
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+idea.paths.selector=AndroidStudio3.2
+jnidispatch.path=/Users/yanyan/Library/Caches/AndroidStudio3.2/tmp/jna352160428329845672.tmp
+os.name=Mac OS X
+sun.boot.class.path=/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/resources.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/rt.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/sunrsasign.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/jsse.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/jce.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/charsets.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/jfr.jar:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/classes
+java.vm.specification.vendor=Oracle Corporation
+java.runtime.version=1.8.0_152-release-1136-b06
+jb.vmOptionsFile=/Applications/Android Studio.app/Contents/bin/studio.vmoptions
+jna.loaded=true
+io.netty.serviceThreadPrefix=Netty 
+idea.java.redist=Bundled
+user.name=yanyan
+java.rmi.server.disableHttp=true
+idea.home.path=/Applications/Android Studio.app/Contents
+user.language=en
+sun.boot.library.path=/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib
+jna.nosys=true
+idea.fatal.error.notification=disabled
+swing.bufferPerWindow=true
+CVS_PASSFILE=~/.cvspass
+java.version=1.8.0_152-release
+java.net.preferIPv4Stack=true
+user.timezone=America/New_York
+jbre.popupwindow.settype=true
+sun.arch.data.model=64
+java.util.concurrent.ForkJoinPool.common.threadFactory=com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory
+jna.tmpdir=/Users/yanyan/Library/Caches/AndroidStudio3.2/tmp
+http.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+java.endorsed.dirs=/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/endorsed
+sun.cpu.isalist=
+sun.jnu.encoding=UTF-8
+file.encoding.pkg=sun.io
+file.separator=/
+java.specification.name=Java Platform API Specification
+java.class.version=52.0
+user.country=US
+jna.boot.library.path=
+java.home=/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre
+java.vm.info=mixed mode
+os.version=10.13.6
+path.separator=:
+java.vm.version=25.152-b06
+idea.smooth.progress=false
+idea.no.launcher=false
+user.variant=
+idea.max.content.load.filesize=20000
+java.awt.printerjob=sun.lwawt.macosx.CPrinterJob
+javax.swing.rebaseCssSizeMap=true
+sun.io.unicode.encoding=UnicodeBig
+idea.cycle.buffer.size=1024
+awt.toolkit=sun.lwawt.macosx.LWCToolkit
+ide.new.welcome.screen.force=true
+socksNonProxyHosts=local|*.local|169.254/16|*.169.254/16
+log4j.defaultInitOverride=true
+io.netty.processId=50410
+ftp.nonProxyHosts=local|*.local|169.254/16|*.169.254/16
+idea.platform.prefix=AndroidStudio
+idea.dynamic.classpath=false
+user.home=/Users/yanyan
+__idea.mac.env.lock=unlocked
+java.specification.vendor=Oracle Corporation
+apple.laf.useScreenMenuBar=true
+jna.encoding=UTF8
+library.jansi.path=/Users/yanyan/.gradle/native/jansi/1.14/osx
+java.library.path=/Users/yanyan/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:.
+java.vendor.url=https://www.jetbrains.com/
+java.vm.vendor=JetBrains s.r.o
+gopherProxySet=false
+kotlin.environment.keepalive=true
+java.runtime.name=OpenJDK Runtime Environment
+sun.java.command=org.gradle.launcher.daemon.bootstrap.GradleDaemon 4.4
+java.class.path=/Users/yanyan/.gradle/wrapper/dists/gradle-4.4-all/9br9xq1tocpiv8o6njlyu5op1/gradle-4.4/lib/gradle-launcher-4.4.jar
+io.netty.machineId=28:f0:76:ff:fe:16:65:0e
+java.vm.specification.name=Java Virtual Machine Specification
+idea.xdebug.key=-Xdebug
+java.vm.specification.version=1.8
+idea.popup.weight=heavy
+sun.cpu.endian=little
+sun.os.patch.level=unknown
+java.awt.headless=true
+java.io.tmpdir=/var/folders/lf/sfxyd8292pzbb0q79yvn4clr0000gn/T/
+java.vendor.url.bug=https://youtrack.jetbrains.com
+java.rmi.server.hostname=127.0.0.1
+jna.platform.library.path=/usr/lib:/usr/lib
+os.arch=x86_64
+java.awt.graphicsenv=sun.awt.CGraphicsEnvironment
+idea.max.intellisense.filesize=2500
+java.ext.dirs=/Users/yanyan/Library/Java/Extensions:/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java
+idea.jre.check=true
+user.dir=/Users/yanyan/Downloads/WordPress-Android
+line.separator=
+
+java.vm.name=OpenJDK 64-Bit Server VM
+java.util.Arrays.useLegacyMergeSort=true
+file.encoding=UTF-8
+studio.record.file=/Users/yanyan/Library/Caches/AndroidStudio3.2/tmp/AndroidStudio.097e2e97-0f25-430c-8921-5521e774455d
+java.specification.version=1.8
+---- Command Line ---
+-encoding
+UTF-8
+-source
+1.7
+-target
+1.7
+-d
+/Users/yanyan/Downloads/WordPress-Android/WordPress/build/intermediates/transforms/aspectj/vanilla/debug/0
+-bootclasspath
+/Users/yanyan/Library/Android/sdk/platforms/android-27/android.jar:/Users/yanyan/Library/Android/sdk/platforms/android-27/optional/org.apache.http.legacy.jar
+-classpath
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.google.dexmaker/dexmaker/1.2/4d5045fefa6d286c5ddf733e321fe6e5e632efb6/dexmaker-1.2.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.1/7b7147a390a93a14d2edfdcf3f7b0e87a0939c3e/asm-commons-5.0.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.1/1b1e6e9d869acd704056d0a4223071a511c619e6/asm-tree-5.0.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.1/2fd56467a018aafe6ec6a73ccba520be4a7e1565/asm-5.0.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt/core/3.3.0-v_771/cbb0cad218731ff0cef426e3890a0df702661852/core-3.3.0-v_771.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/43ff46d69536c21840b59a7c6178e87c/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/43fc4738ea06b14c1efedae0a891a786/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.12/afaa5bdae313ed3ea119eb26c8848fca21e8b04e/aspectjrt-1.8.12.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions-runtime/1.2.61/4084b65a05940fd96c1e84857894c5be40532a8c/kotlin-android-extensions-runtime-1.2.61.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/crashlytics-2.5.5.aar/f7e37cd6ec37614c13fbbc4ba0e3f689/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/fluxc-c5298ed4b9dc4b65828ca6ff0ad561d2a33fc3e9.aar/745c4c89f108a4b4bdd7ae406b26a829/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.2.71/4ce93f539e2133f172f1167291a911f83400a5d0/kotlin-stdlib-jdk7-1.2.71.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-2.0.0.aar/e2b1b0ef94d406c90bb9d1afe3a625b3/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-providers-2.0.0.aar/dec462184b71a641349b03bd6e983c8d/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/94d5402f91502afc9ab0b693938218ec/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/wordpress-shortcodes-53b1d0975f05138016b63ef65dee26b4b6f392c3.aar/0eae9dc0f4342db220f4e68c590d3b41/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/wordpress-comments-53b1d0975f05138016b63ef65dee26b4b6f392c3.aar/656920054a8ecc53b8ae0275df29a8d8/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/aztec-53b1d0975f05138016b63ef65dee26b4b6f392c3.aar/1155f53f1dc7a3ec20337318b083d019/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.ccil.cowan.tagsoup/tagsoup/1.2.1/5584627487e984c03456266d3f8802eb85a9ce97/tagsoup-1.2.1.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b890817957dd59a9e4200db141d8d2d3/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/d1b7abcd734f1729d26b6dbafd0856eb/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/belvedere-2.1.0.aar/f240915d8bc924b4f48b0c1704874e75/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/belvedere-core-2.1.0.aar/e90190d59c97af5a709b0bfa149113d2/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/78f35d45613f2b684644f249350d462b/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/library-1.2.4.aar/6ecdc44174bbeb00ea4306e6745ec27e/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.11.aar/9aae4709af967572e13ca5e3a5b0080e/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.0.0.aar/739621ec9904f5d2eac8fff5cc862020/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/3700422154bf93f1b0793d65e628ec49/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/f51bd959a0ee244b79996d5f12582885/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a773f7f9af4f65969f96d31957a209f2/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/11c3844a7687c8f124720da7ea0e580a/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/eca76e1ff52714951c955c61eac9e53d/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/87a396bf237b3b265f735bd5b68e7c33/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/62e3efc19f6ed015d1564ed75f4e9488/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/026729ffc2a20f514b3521e931ce8ed8/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/dfcff4c5d7db2908442ab02ce9bb7073/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/75abb76c28046a8160862a5d60b72758/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/381155786411e22ae89d77131eba51b6/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/b55fe2783b023b7c1298390a7eb0dcfa/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/5cb3f39b810322ade1b2014e93f86414/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/26f8470bdd4c73b53b2cd4b97b325097/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c12d13f2c423756f0c1533922286e3a4/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6a34171d58f4e570922103a01bf6fccf/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/lottie-2.0.0-rc2.aar/3f2e7c8576c10dc657d71a3d5c9b3840/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.0.aar/980a77d3185fc481262d333c5b2c50e4/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/206b073dfac99d6dd5e03babd9e340d0/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/96185ffb1dd427b1af35f0f52f32f301/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/82becf83b24da0ffbd45f83eba8db2f7/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/19c8b85f1bd80790ec64fc30cea1eef6/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bd91e608252a55fff0868e93a82e66d1/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/percent-27.1.1.aar/83634219b3acc0c32d56290dc8bf72a2/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2bbbfa407bd4605c9299bbbbc7216cd5/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/19edfd514d44f405180143e632bca1c2/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1a4bf534eee2c38c939a14560d95745d/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b3603b21fca977bafa538efa49924650/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b278af95898a1dedb79bd45cbe3892c7/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ce25e4d0d1d006aa016f03d849d3fcf4/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9340e52cb058d5489d23a7c738ceb355/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/732d3106bae72aed4184e9d093fd443b/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/installreferrer-1.0.aar/22097dc7bc4f698a48910e8bf403150f/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/rest-1.0.7.aar/748ce5eef7614a0faa30f434e943c227/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/graphview-3.4.0.aar/0e0afda1fcd9fa0fd5e3924c6398db07/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/persistentedittext-1.0.2.aar/dbc52fdd90c8aec3797127081639f5b8/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/emailchecker2-1.1.0.aar/4c23e35307c3b6d33400ad6a27d8543e/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.9.0/79ab9b14ed211b8e498453ff40f2cddee3cd9a1/okhttp-urlconnection-3.9.0.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.jakewharton.picasso/picasso2-okhttp3-downloader/1.1.0/f4f77eb62269c977c154765cd01587eda6488273/picasso2-okhttp3-downloader-1.1.0.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.8.1/feab46062803513d6a8307c74b0084265855de1a/logging-interceptor-3.8.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.0/1b6c10b5120995a7542c1a31b7828fb8593c8ba/okhttp-3.9.0.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.1/c336bf600f44b88af356c8a85eef4af822b06a4d/commons-text-1.1.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/volley-integration-4.6.1.aar/e722ca76620f539eb84f9fdf97751e5c/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/dagger-android-2.11.aar/29c7783403db728842dc47216c8118a5/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.11/95037eaee68aa48021511972e9db9ba29916e1c9/dagger-2.11.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/android-43a9026f0973a2f0a74fa813132f6a16f7499c3a.aar/19f3bae4042eb6c61cee72eb69d8ed08/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/0.26.1/f5204a2f7e707ae511c0c40a985b75bad151169/kotlinx-coroutines-android-0.26.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/0.26.1/d5aada103e0f4d8add78ec657183101c93d61289/kotlinx-coroutines-core-0.26.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/resources/3.3.0-v20070604/7fb5f9b67712d34cb41ee5f29728fd0504400647/resources-3.3.0-v20070604.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/expressions/3.3.0-v20070606-0010/2477cfaa48dab4512c2b1332538687ceb447eaf8/expressions-3.3.0-v20070606-0010.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/runtime/3.10.0-v20140318-2214/a537de26c1e322a68536a3a2c3cb2389d5dbcb00/runtime-3.10.0-v20140318-2214.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/filesystem/1.1.0-v20070606/311d9379367bce428ae8e97ca9708cfd0026ca6d/filesystem-1.1.0-v20070606.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse/text/3.3.0-v20070606-0010/264d59d61054a81867810613f9d9046497f6014e/text-3.3.0-v20070606-0010.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.71/d9717625bb3c731561251f8dd2c67a1011d6764c/kotlin-stdlib-1.2.71.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.8.aar/fee9ba8c83c28130c38bf5d07234449e/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/answers-1.3.6.aar/018c49e381e3e69a42ffeb79b3ca0e36/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/fabric-1.3.10.aar/21bd669eacf59c47a5bb281e6c22f4f5/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/beta-1.1.4.aar/bd8b15f77be0342130e30f80459b51f8/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8872a57052aef8db340488836d4dc643/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6b9ca34e44f7ee04aba1157d561a4506/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8c73ab6db98b42a8d2f7ec9b46c3e40b/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/470c5a4792a817c39c1dd0287928f1ba/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/914a0d37a596b9eb6824506c18b69fd4/jars/classes.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/wellsql-1.3.0.aar/3a5b95550c81eb682ef41b32688f9e19/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.zendesk.suas/suas/1.2.0/67ff6bbd96dc9c91c4e826e569fb92adc6af3cf/suas-1.2.0.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9a08f72c478d1265a8234d2e88667fc9/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.5/6c6c702c89bfff3cd9e80b04d668c5e190d588c6/commons-lang3-3.5.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.6.1/2f82d433b9dae134a9b32039a6b5b38abe8a1c46/disklrucache-4.6.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.6.1/278bafb890704b66a1d6a8a98d0790f940aa5a22/annotations-4.6.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.github.wordpress-mobile.WordPress-FluxC-Android/fluxc-annotations/c5298ed4b9dc4b65828ca6ff0ad561d2a33fc3e9/94f0209fa4d0018672d0557c390a5d3b9b167b1f/fluxc-annotations-c5298ed4b9dc4b65828ca6ff0ad561d2a33fc3e9.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.github.indexos.media-for-mobile/domain/43a9026f0973a2f0a74fa813132f6a16f7499c3a/9a5438f391ca7cbd704b20086fcba30bbc37c87f/domain-43a9026f0973a2f0a74fa813132f6a16f7499c3a.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/tracks-1.1.4.aar/7a98c434d056f8e02d32f8cc2e34765e/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.3/b842f960942503cf1abbcc8c173a7f2c19d43726/jsoup-1.10.3.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.jakewharton/disklrucache/2.0.2/93b399470e72c0bc8cb52379943b63c9aa586cd8/disklrucache-2.0.2.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/0.26.1/c8a336ccf0fc5a907e4dba4ef98bcfbc9f58af53/kotlinx-coroutines-core-common-0.26.1.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse/osgi/3.10.0-v20140606-1445/afe258a6e5d2dcd8fa4c894f53fdc78e49984e3c/osgi-3.10.0-v20140606-1445.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/jobs/3.6.0-v20140424-0053/4f355c5efd8a39a03f7b0ff4cfcf24b33a968c12/jobs-3.6.0-v20140424-0053.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/contenttype/3.4.200-v20140207-1251/db44eacfdced003f806846810b1a62a1066bb8fd/contenttype-3.4.200-v20140207-1251.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/app/1.3.200-v20130910-1609/659921d8f404ee6161c29bd6a6798631208c3633/app-1.3.200-v20130910-1609.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/registry/3.5.400-v20140428-1507/5f933a7fbea4c96c74c50b4d453e59b3185e6aec/registry-3.5.400-v20140428-1507.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/preferences/3.5.200-v20140224-1527/9ea0f3c0b18d0a1e904743b19c2f7c0c7163c61e/preferences-3.5.200-v20140224-1527.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/commands/3.3.0-I20070605-0010/f602b5987689e09820fe1a3e67b25c423a1214ae/commands-3.3.0-I20070605-0010.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/common/3.6.200-v20130402-1505/f930417b1602dafb370d7b9ed7871c87e0b355b1/common-3.6.200-v20130402-1505.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.wordpress/wellsql-core/1.3.0/94bc579fe8506b310bc3c2dda06335cd0eb27acc/wellsql-core-1.3.0.jar:/Users/yanyan/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/8afcdfef1d3be441d6957d8f0a1ae77d/jars/classes.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-common/0.11.5/a14c4e4a2c0232878dcdf592b48bc3e50decfddf/atomicfu-common-0.11.5.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.71/ba18ca1aa0e40eb6f1865b324af2f4cbb691c1ec/kotlin-stdlib-common-1.2.71.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.zendesk/java-common/1.13/5260e4b8318d1fd4918592fdd132845fd3171766/java-common-1.13.jar:/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar:/Users/yanyan/Downloads/WordPress-Android/libs/editor/WordPressEditor/build/intermediates/intermediate-jars/debug/classes.jar:/Users/yanyan/Downloads/WordPress-Android/libs/login/WordPressLoginFlow/build/intermediates/intermediate-jars/debug/classes.jar:/Users/yanyan/Downloads/WordPress-Android/libs/utils/WordPressUtils/build/intermediates/intermediate-jars/debug/classes.jar:/Users/yanyan/Downloads/WordPress-Android/libs/networking/WordPressNetworking/build/intermediates/intermediate-jars/debug/classes.jar:/Users/yanyan/Downloads/WordPress-Android/libs/analytics/WordPressAnalytics/build/intermediates/intermediate-jars/debug/classes.jar:/Users/yanyan/Downloads/WordPress-Android/WordPress/build/intermediates/classes/vanilla/debug:/Users/yanyan/Downloads/WordPress-Android/WordPress/build/tmp/kotlin-classes/vanillaDebug:/Users/yanyan/Downloads/WordPress-Android/WordPress/build/tmp/kapt3/classes/vanillaDebug
+-inpath
+/Users/yanyan/Downloads/WordPress-Android/WordPress/build/intermediates/classes/vanilla/debug:/Users/yanyan/Downloads/WordPress-Android/WordPress/build/tmp/kotlin-classes/vanillaDebug:/Users/yanyan/Downloads/WordPress-Android/WordPress/build/tmp/kapt3/classes/vanillaDebug
+-log
+/Users/yanyan/Downloads/WordPress-Android/WordPress/build/ajc-transform.log
+-showWeaveInfo
+---- Full Classpath ---
+/Users/yanyan/Library/Android/sdk/platforms/android-27/android.jar(29515251 bytes)
+/Users/yanyan/Library/Android/sdk/platforms/android-27/optional/org.apache.http.legacy.jar(306863 bytes)
+/Users/yanyan/Downloads/WordPress-Android/WordPress/build/intermediates/classes/vanilla/debug(7 entries)
+/Users/yanyan/Downloads/WordPress-Android/WordPress/build/tmp/kotlin-classes/vanillaDebug(2 entries)
+/Users/yanyan/Downloads/WordPress-Android/WordPress/build/tmp/kapt3/classes/vanillaDebug(0 entries)
+/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunec.jar(38259 bytes)
+/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/nashorn.jar(2033196 bytes)
+/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/cldrdata.jar(3861228 bytes)
+/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/dnsns.jar(8287 bytes)
+/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/localedata.jar(1179102 bytes)
+/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunjce_provider.jar(261553 bytes)
+/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/sunpkcs11.jar(239016 bytes)
+/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/jaccess.jar(44517 bytes)
+/Applications/Android Studio.app/Contents/jre/jdk/Contents/Home/jre/lib/ext/zipfs.jar(68932 bytes)
+/System/Library/Java/Extensions/MRJToolkit.jar(12849 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.google.dexmaker/dexmaker/1.2/4d5045fefa6d286c5ddf733e321fe6e5e632efb6/dexmaker-1.2.jar(675239 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.5/2852e6e05fbb95076fc091f6d1780f1f8fe35e0f/commons-io-2.5.jar(208700 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/5.0.1/7b7147a390a93a14d2edfdcf3f7b0e87a0939c3e/asm-commons-5.0.1.jar(41718 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/5.0.1/1b1e6e9d869acd704056d0a4223071a511c619e6/asm-tree-5.0.1.jar(29038 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.0.1/2fd56467a018aafe6ec6a73ccba520be4a7e1565/asm-5.0.1.jar(53217 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.jdt/core/3.3.0-v_771/cbb0cad218731ff0cef426e3890a0df702661852/core-3.3.0-v_771.jar(4124600 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/stetho-okhttp3-1.5.0.aar/43ff46d69536c21840b59a7c6178e87c/jars/classes.jar(6490 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/stetho-1.5.0.aar/43fc4738ea06b14c1efedae0a891a786/jars/classes.jar(556136 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.aspectj/aspectjrt/1.8.12/afaa5bdae313ed3ea119eb26c8848fca21e8b04e/aspectjrt-1.8.12.jar(118753 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-android-extensions-runtime/1.2.61/4084b65a05940fd96c1e84857894c5be40532a8c/kotlin-android-extensions-runtime-1.2.61.jar(8633 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/crashlytics-2.5.5.aar/f7e37cd6ec37614c13fbbc4ba0e3f689/jars/classes.jar(5508 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/fluxc-c5298ed4b9dc4b65828ca6ff0ad561d2a33fc3e9.aar/745c4c89f108a4b4bdd7ae406b26a829/jars/classes.jar(1633388 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.2.71/4ce93f539e2133f172f1167291a911f83400a5d0/kotlin-stdlib-jdk7-1.2.71.jar(3133 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-2.0.0.aar/e2b1b0ef94d406c90bb9d1afe3a625b3/jars/classes.jar(663534 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-providers-2.0.0.aar/dec462184b71a641349b03bd6e983c8d/jars/classes.jar(233106 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/94d5402f91502afc9ab0b693938218ec/jars/classes.jar(246538 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.3.0/9e09011e9767bb76b5e27c9b8223476b93b14631/converter-gson-2.3.0.jar(5852 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.5/f645ed69d595b24d4cf8b3fbb64cc505bede8829/gson-2.8.5.jar(241622 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/wordpress-shortcodes-53b1d0975f05138016b63ef65dee26b4b6f392c3.aar/0eae9dc0f4342db220f4e68c590d3b41/jars/classes.jar(36162 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/wordpress-comments-53b1d0975f05138016b63ef65dee26b4b6f392c3.aar/656920054a8ecc53b8ae0275df29a8d8/jars/classes.jar(24765 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/aztec-53b1d0975f05138016b63ef65dee26b4b6f392c3.aar/1155f53f1dc7a3ec20337318b083d019/jars/classes.jar(566124 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.ccil.cowan.tagsoup/tagsoup/1.2.1/5584627487e984c03456266d3f8802eb85a9ce97/tagsoup-1.2.1.jar(90722 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/extensions-1.1.1.aar/b890817957dd59a9e4200db141d8d2d3/jars/classes.jar(22570 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/glide-4.6.1.aar/d1b7abcd734f1729d26b6dbafd0856eb/jars/classes.jar(653014 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/belvedere-2.1.0.aar/f240915d8bc924b4f48b0c1704874e75/jars/classes.jar(98433 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/belvedere-core-2.1.0.aar/e90190d59c97af5a709b0bfa149113d2/jars/classes.jar(34289 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/preference-v7-27.1.1.aar/78f35d45613f2b684644f249350d462b/jars/classes.jar(157627 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/library-1.2.4.aar/6ecdc44174bbeb00ea4306e6745ec27e/jars/classes.jar(35686 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/dagger-android-support-2.11.aar/9aae4709af967572e13ca5e3a5b0080e/jars/classes.jar(10086 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/firebase-messaging-17.0.0.aar/739621ec9904f5d2eac8fff5cc862020/jars/classes.jar(46490 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-15.0.1.aar/3700422154bf93f1b0793d65e628ec49/jars/classes.jar(197164 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-places-15.0.1.aar/f51bd959a0ee244b79996d5f12582885/jars/classes.jar(717121 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-16.0.0.aar/a773f7f9af4f65969f96d31957a209f2/jars/classes.jar(137663 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/firebase-common-16.0.0.aar/11c3844a7687c8f124720da7ea0e580a/jars/classes.jar(53266 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-15.0.1.aar/eca76e1ff52714951c955c61eac9e53d/jars/classes.jar(20252 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-15.0.1.aar/87a396bf237b3b265f735bd5b68e7c33/jars/classes.jar(236187 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.1.aar/62e3efc19f6ed015d1564ed75f4e9488/jars/classes.jar(543192 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/firebase-iid-interop-16.0.0.aar/026729ffc2a20f514b3521e931ce8ed8/jars/classes.jar(943 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/dfcff4c5d7db2908442ab02ce9bb7073/jars/classes.jar(1082946 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/75abb76c28046a8160862a5d60b72758/jars/classes.jar(74670 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/firebase-measurement-connector-16.0.0.aar/381155786411e22ae89d77131eba51b6/jars/classes.jar(5462 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/b55fe2783b023b7c1298390a7eb0dcfa/jars/classes.jar(6621 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-stats-15.0.1.aar/5cb3f39b810322ade1b2014e93f86414/jars/classes.jar(32151 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/26f8470bdd4c73b53b2cd4b97b325097/jars/classes.jar(675932 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/c12d13f2c423756f0c1533922286e3a4/jars/classes.jar(296309 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/6a34171d58f4e570922103a01bf6fccf/jars/classes.jar(233 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/lottie-2.0.0-rc2.aar/3f2e7c8576c10dc657d71a3d5c9b3840/jars/classes.jar(213124 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/ucrop-2.2.0.aar/980a77d3185fc481262d333c5b2c50e4/jars/classes.jar(95944 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/206b073dfac99d6dd5e03babd9e340d0/jars/classes.jar(697576 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/96185ffb1dd427b1af35f0f52f32f301/jars/classes.jar(180817 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/82becf83b24da0ffbd45f83eba8db2f7/jars/classes.jar(34730 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/19c8b85f1bd80790ec64fc30cea1eef6/jars/classes.jar(383564 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/bd91e608252a55fff0868e93a82e66d1/jars/classes.jar(290701 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/percent-27.1.1.aar/83634219b3acc0c32d56290dc8bf72a2/jars/classes.jar(12291 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/2bbbfa407bd4605c9299bbbbc7216cd5/jars/classes.jar(341339 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/19edfd514d44f405180143e632bca1c2/jars/classes.jar(30676 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/1a4bf534eee2c38c939a14560d95745d/jars/classes.jar(198337 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/b3603b21fca977bafa538efa49924650/jars/classes.jar(105408 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/b278af95898a1dedb79bd45cbe3892c7/jars/classes.jar(572587 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/multidex-1.0.2.aar/ce25e4d0d1d006aa016f03d849d3fcf4/jars/classes.jar(22415 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.1.aar/9340e52cb058d5489d23a7c738ceb355/jars/classes.jar(21759 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/732d3106bae72aed4184e9d093fd443b/jars/classes.jar(60780 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/installreferrer-1.0.aar/22097dc7bc4f698a48910e8bf403150f/jars/classes.jar(14590 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/de.greenrobot/eventbus/2.4.0/ddd166d01b3158d1c00576d29f7ed15c030df719/eventbus-2.4.0.jar(45282 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/rest-1.0.7.aar/748ce5eef7614a0faa30f434e943c227/jars/classes.jar(16855 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/graphview-3.4.0.aar/0e0afda1fcd9fa0fd5e3924c6398db07/jars/classes.jar(30437 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/persistentedittext-1.0.2.aar/dbc52fdd90c8aec3797127081639f5b8/jars/classes.jar(5704 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/emailchecker2-1.1.0.aar/4c23e35307c3b6d33400ad6a27d8543e/jars/classes.jar(10520 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.9.0/79ab9b14ed211b8e498453ff40f2cddee3cd9a1/okhttp-urlconnection-3.9.0.jar(32682 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.jakewharton.picasso/picasso2-okhttp3-downloader/1.1.0/f4f77eb62269c977c154765cd01587eda6488273/picasso2-okhttp3-downloader-1.1.0.jar(5549 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.3.0/bcacde6a8ccedcc56c127403d26b76072fe6214d/retrofit-2.3.0.jar(90692 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/logging-interceptor/3.8.1/feab46062803513d6a8307c74b0084265855de1a/logging-interceptor-3.8.1.jar(8268 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.0/1b6c10b5120995a7542c1a31b7828fb8593c8ba/okhttp-3.9.0.jar(405733 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar(81811 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-text/1.1/c336bf600f44b88af356c8a85eef4af822b06a4d/commons-text-1.1.jar(129145 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/volley-integration-4.6.1.aar/e722ca76620f539eb84f9fdf97751e5c/jars/classes.jar(11433 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/dagger-android-2.11.aar/29c7783403db728842dc47216c8118a5/jars/classes.jar(26930 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.11/95037eaee68aa48021511972e9db9ba29916e1c9/dagger-2.11.jar(34779 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/android-43a9026f0973a2f0a74fa813132f6a16f7499c3a.aar/19f3bae4042eb6c61cee72eb69d8ed08/jars/classes.jar(76028 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/0.26.1/f5204a2f7e707ae511c0c40a985b75bad151169/kotlinx-coroutines-android-0.26.1.jar(16747 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/0.26.1/d5aada103e0f4d8add78ec657183101c93d61289/kotlinx-coroutines-core-0.26.1.jar(811680 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/resources/3.3.0-v20070604/7fb5f9b67712d34cb41ee5f29728fd0504400647/resources-3.3.0-v20070604.jar(678658 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/expressions/3.3.0-v20070606-0010/2477cfaa48dab4512c2b1332538687ceb447eaf8/expressions-3.3.0-v20070606-0010.jar(81798 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/runtime/3.10.0-v20140318-2214/a537de26c1e322a68536a3a2c3cb2389d5dbcb00/runtime-3.10.0-v20140318-2214.jar(75169 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/filesystem/1.1.0-v20070606/311d9379367bce428ae8e97ca9708cfd0026ca6d/filesystem-1.1.0-v20070606.jar(43130 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse/text/3.3.0-v20070606-0010/264d59d61054a81867810613f9d9046497f6014e/text-3.3.0-v20070606-0010.jar(233481 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/commons-cli/commons-cli/1.2/2bf96b7aa8b611c177d329452af1dc933e14501c/commons-cli-1.2.jar(41123 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.1/f7be08ec23c21485b9b5a1cf1654c2ec8c58168d/jsr305-3.0.1.jar(19943 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.2.71/d9717625bb3c731561251f8dd2c67a1011d6764c/kotlin-stdlib-1.2.71.jar(962149 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/crashlytics-core-2.3.8.aar/fee9ba8c83c28130c38bf5d07234449e/jars/classes.jar(148442 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/answers-1.3.6.aar/018c49e381e3e69a42ffeb79b3ca0e36/jars/classes.jar(61747 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/fabric-1.3.10.aar/21bd669eacf59c47a5bb281e6c22f4f5/jars/classes.jar(239593 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/beta-1.1.4.aar/bd8b15f77be0342130e30f80459b51f8/jars/classes.jar(19552 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/8872a57052aef8db340488836d4dc643/jars/classes.jar(10509 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/6b9ca34e44f7ee04aba1157d561a4506/jars/classes.jar(9017 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/8c73ab6db98b42a8d2f7ec9b46c3e40b/jars/classes.jar(4719 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/470c5a4792a817c39c1dd0287928f1ba/jars/classes.jar(9124 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.1.1/e55b70d1f5620db124b3e85a7f4bdc7bd48d9f95/common-1.1.1.jar(11567 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.1.1/207a6efae6a3555e326de41f76bdadd9a239cbce/common-1.1.1.jar(20618 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/gifdecoder-4.6.1.aar/914a0d37a596b9eb6824506c18b69fd4/jars/classes.jar(18215 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/wellsql-1.3.0.aar/3a5b95550c81eb682ef41b32688f9e19/jars/classes.jar(32491 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.zendesk.suas/suas/1.2.0/67ff6bbd96dc9c91c4e826e569fb92adc6af3cf/suas-1.2.0.jar(34465 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/9a08f72c478d1265a8234d2e88667fc9/jars/classes.jar(7165 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.1.1/39ded76b5e1ce1c5b2688e1d25cdc20ecee32007/support-annotations-27.1.1.jar(25673 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.android.support.constraint/constraint-layout-solver/1.1.2/bfc967828daffc35ba01c9ee204d98b664930a0f/constraint-layout-solver-1.1.2.jar(109846 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar(93547 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.5/6c6c702c89bfff3cd9e80b04d668c5e190d588c6/commons-lang3-3.5.jar(479881 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/disklrucache/4.6.1/2f82d433b9dae134a9b32039a6b5b38abe8a1c46/disklrucache-4.6.1.jar(19341 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/annotations/4.6.1/278bafb890704b66a1d6a8a98d0790f940aa5a22/annotations-4.6.1.jar(3711 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar(2497 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.github.wordpress-mobile.WordPress-FluxC-Android/fluxc-annotations/c5298ed4b9dc4b65828ca6ff0ad561d2a33fc3e9/94f0209fa4d0018672d0557c390a5d3b9b167b1f/fluxc-annotations-c5298ed4b9dc4b65828ca6ff0ad561d2a33fc3e9.jar(12958 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.greenrobot/eventbus/3.0.0/ddd99896e9569eaababbe81b35d80e1b91c4ad85/eventbus-3.0.0.jar(53655 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.github.indexos.media-for-mobile/domain/43a9026f0973a2f0a74fa813132f6a16f7499c3a/9a5438f391ca7cbd704b20086fcba30bbc37c87f/domain-43a9026f0973a2f0a74fa813132f6a16f7499c3a.jar(215023 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/tracks-1.1.4.aar/7a98c434d056f8e02d32f8cc2e34765e/jars/classes.jar(42193 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jsoup/jsoup/1.10.3/b842f960942503cf1abbcc8c173a7f2c19d43726/jsoup-1.10.3.jar(355356 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.jakewharton/disklrucache/2.0.2/93b399470e72c0bc8cb52379943b63c9aa586cd8/disklrucache-2.0.2.jar(21700 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar(120459 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-common/0.26.1/c8a336ccf0fc5a907e4dba4ef98bcfbc9f58af53/kotlinx-coroutines-core-common-0.26.1.jar(98257 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse/osgi/3.10.0-v20140606-1445/afe258a6e5d2dcd8fa4c894f53fdc78e49984e3c/osgi-3.10.0-v20140606-1445.jar(1264040 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/jobs/3.6.0-v20140424-0053/4f355c5efd8a39a03f7b0ff4cfcf24b33a968c12/jobs-3.6.0-v20140424-0053.jar(97549 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/contenttype/3.4.200-v20140207-1251/db44eacfdced003f806846810b1a62a1066bb8fd/contenttype-3.4.200-v20140207-1251.jar(93948 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/app/1.3.200-v20130910-1609/659921d8f404ee6161c29bd6a6798631208c3633/app-1.3.200-v20130910-1609.jar(86245 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/registry/3.5.400-v20140428-1507/5f933a7fbea4c96c74c50b4d453e59b3185e6aec/registry-3.5.400-v20140428-1507.jar(183511 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/preferences/3.5.200-v20140224-1527/9ea0f3c0b18d0a1e904743b19c2f7c0c7163c61e/preferences-3.5.200-v20140224-1527.jar(127161 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.core/commands/3.3.0-I20070605-0010/f602b5987689e09820fe1a3e67b25c423a1214ae/commands-3.3.0-I20070605-0010.jar(103384 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.eclipse.equinox/common/3.6.200-v20130402-1505/f930417b1602dafb370d7b9ed7871c87e0b355b1/common-3.6.200-v20130402-1505.jar(106701 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.wordpress/wellsql-core/1.3.0/94bc579fe8506b310bc3c2dda06335cd0eb27acc/wellsql-core-1.3.0.jar(6728 bytes)
+/Users/yanyan/.gradle/caches/transforms-1/files-1.1/answers-shim-0.0.6.aar/8afcdfef1d3be441d6957d8f0a1ae77d/jars/classes.jar(4653 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/atomicfu-common/0.11.5/a14c4e4a2c0232878dcdf592b48bc3e50decfddf/atomicfu-common-0.11.5.jar(2975 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.2.71/ba18ca1aa0e40eb6f1865b324af2f4cbb691c1ec/kotlin-stdlib-common-1.2.71.jar(111800 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/com.zendesk/java-common/1.13/5260e4b8318d1fd4918592fdd132845fd3171766/java-common-1.13.jar(52809 bytes)
+/Users/yanyan/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar(17536 bytes)
+/Users/yanyan/Downloads/WordPress-Android/libs/editor/WordPressEditor/build/intermediates/intermediate-jars/debug/classes.jar(219741 bytes)
+/Users/yanyan/Downloads/WordPress-Android/libs/login/WordPressLoginFlow/build/intermediates/intermediate-jars/debug/classes.jar(198045 bytes)
+/Users/yanyan/Downloads/WordPress-Android/libs/utils/WordPressUtils/build/intermediates/intermediate-jars/debug/classes.jar(138233 bytes)
+/Users/yanyan/Downloads/WordPress-Android/libs/networking/WordPressNetworking/build/intermediates/intermediate-jars/debug/classes.jar(10600 bytes)
+/Users/yanyan/Downloads/WordPress-Android/libs/analytics/WordPressAnalytics/build/intermediates/intermediate-jars/debug/classes.jar(46668 bytes)
+/Users/yanyan/Downloads/WordPress-Android/WordPress/build/intermediates/classes/vanilla/debug(7 entries)
+/Users/yanyan/Downloads/WordPress-Android/WordPress/build/tmp/kotlin-classes/vanillaDebug(2 entries)
+/Users/yanyan/Downloads/WordPress-Android/WordPress/build/tmp/kapt3/classes/vanillaDebug(0 entries)
+---- Compiler Messages ---
+warning at org/wordpress/android/poco/policy/PolicyAspects.java::0 no match for this type name: com.google.android.gms.ads.AdView [Xlint:invalidAbsoluteTypeName]
+warning at org/wordpress/android/poco/policy/PolicyAspects.java::0 no match for this type name: com.google.android.gms.ads.AdListener [Xlint:invalidAbsoluteTypeName]
+abort ABORT -- (BCException) Unable to find Asm for stackmap generation (Looking for 'aj.org.objectweb.asm.ClassReader'). Stackmap generation for woven code is required to avoid verify errors on a Java 1.7 or higher runtime
+when weaving type org.wordpress.android.poco.policy.PolicyAspects
+when weaving aspects 
+when weaving 
+when batch building BuildConfig[null] #Files=0 AopXmls=#0
+
+Unable to find Asm for stackmap generation (Looking for 'aj.org.objectweb.asm.ClassReader'). Stackmap generation for woven code is required to avoid verify errors on a Java 1.7 or higher runtime
+when weaving type org.wordpress.android.poco.policy.PolicyAspects
+when weaving aspects 
+when weaving 
+when batch building BuildConfig[null] #Files=0 AopXmls=#0
+
+org.aspectj.weaver.BCException: Unable to find Asm for stackmap generation (Looking for 'aj.org.objectweb.asm.ClassReader'). Stackmap generation for woven code is required to avoid verify errors on a Java 1.7 or higher runtime
+when weaving type org.wordpress.android.poco.policy.PolicyAspects
+when weaving aspects 
+when weaving 
+when batch building BuildConfig[null] #Files=0 AopXmls=#0
+
+	at org.aspectj.weaver.bcel.LazyClassGen.getJavaClassBytesIncludingReweavable(LazyClassGen.java:703)
+	at org.aspectj.weaver.bcel.BcelWeaver.getClassFilesFor(BcelWeaver.java:1443)
+	at org.aspectj.weaver.bcel.BcelWeaver.weaveAndNotify(BcelWeaver.java:1405)
+	at org.aspectj.weaver.bcel.BcelWeaver.weave(BcelWeaver.java:1154)
+	at org.aspectj.ajdt.internal.compiler.AjPipeliningCompilerAdapter.weaveQueuedEntries(AjPipeliningCompilerAdapter.java:514)
+	at org.aspectj.ajdt.internal.compiler.AjPipeliningCompilerAdapter.afterCompiling(AjPipeliningCompilerAdapter.java:375)
+	at org.aspectj.ajdt.internal.compiler.CompilerAdapter.ajc$afterReturning$org_aspectj_ajdt_internal_compiler_CompilerAdapter$2$f9cc9ca0(CompilerAdapter.aj:78)
+	at org.aspectj.org.eclipse.jdt.internal.compiler.Compiler.compile(Compiler.java:418)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.performCompilation(AjBuildManager.java:1036)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.performBuild(AjBuildManager.java:272)
+	at org.aspectj.ajdt.internal.core.builder.AjBuildManager.batchBuild(AjBuildManager.java:185)
+	at org.aspectj.ajdt.ajc.AjdtCommand.doCommand(AjdtCommand.java:114)
+	at org.aspectj.ajdt.ajc.AjdtCommand.runCommand(AjdtCommand.java:60)
+	at org.aspectj.tools.ajc.Main.run(Main.java:371)
+	at com.archinamon.api.AspectJWeaver.doWeave$android_gradle_aspectj(AspectJWeaver.kt:125)
+	at com.archinamon.api.transform.AspectJTransform.transform(AspectJTransform.kt:181)
+	at com.android.build.gradle.internal.pipeline.TransformTask$2.call(TransformTask.java:221)
+	at com.android.build.gradle.internal.pipeline.TransformTask$2.call(TransformTask.java:217)
+	at com.android.builder.profile.ThreadRecorder.record(ThreadRecorder.java:102)
+	at com.android.build.gradle.internal.pipeline.TransformTask.transform(TransformTask.java:212)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.gradle.internal.reflect.JavaMethod.invoke(JavaMethod.java:73)
+	at org.gradle.api.internal.project.taskfactory.IncrementalTaskAction.doExecute(IncrementalTaskAction.java:46)
+	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:39)
+	at org.gradle.api.internal.project.taskfactory.StandardTaskAction.execute(StandardTaskAction.java:26)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter$1.run(ExecuteActionsTaskExecuter.java:121)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:199)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:110)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeAction(ExecuteActionsTaskExecuter.java:110)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeActions(ExecuteActionsTaskExecuter.java:92)
+	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:70)
+	at org.gradle.api.internal.tasks.execution.OutputDirectoryCreatingTaskExecuter.execute(OutputDirectoryCreatingTaskExecuter.java:51)
+	at org.gradle.api.internal.tasks.execution.SkipUpToDateTaskExecuter.execute(SkipUpToDateTaskExecuter.java:62)
+	at org.gradle.api.internal.tasks.execution.ResolveTaskOutputCachingStateExecuter.execute(ResolveTaskOutputCachingStateExecuter.java:54)
+	at org.gradle.api.internal.tasks.execution.ValidatingTaskExecuter.execute(ValidatingTaskExecuter.java:60)
+	at org.gradle.api.internal.tasks.execution.SkipEmptySourceFilesTaskExecuter.execute(SkipEmptySourceFilesTaskExecuter.java:97)
+	at org.gradle.api.internal.tasks.execution.CleanupStaleOutputsExecuter.execute(CleanupStaleOutputsExecuter.java:87)
+	at org.gradle.api.internal.tasks.execution.ResolveTaskArtifactStateTaskExecuter.execute(ResolveTaskArtifactStateTaskExecuter.java:52)
+	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:52)
+	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:54)
+	at org.gradle.api.internal.tasks.execution.ExecuteAtMostOnceTaskExecuter.execute(ExecuteAtMostOnceTaskExecuter.java:43)
+	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:34)
+	at org.gradle.execution.taskgraph.DefaultTaskGraphExecuter$EventFiringTaskWorker$1.run(DefaultTaskGraphExecuter.java:248)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:336)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor$RunnableBuildOperationWorker.execute(DefaultBuildOperationExecutor.java:328)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.execute(DefaultBuildOperationExecutor.java:199)
+	at org.gradle.internal.progress.DefaultBuildOperationExecutor.run(DefaultBuildOperationExecutor.java:110)
+	at org.gradle.execution.taskgraph.DefaultTaskGraphExecuter$EventFiringTaskWorker.execute(DefaultTaskGraphExecuter.java:241)
+	at org.gradle.execution.taskgraph.DefaultTaskGraphExecuter$EventFiringTaskWorker.execute(DefaultTaskGraphExecuter.java:230)
+	at org.gradle.execution.taskgraph.DefaultTaskPlanExecutor$TaskExecutorWorker.processTask(DefaultTaskPlanExecutor.java:123)
+	at org.gradle.execution.taskgraph.DefaultTaskPlanExecutor$TaskExecutorWorker.access$200(DefaultTaskPlanExecutor.java:79)
+	at org.gradle.execution.taskgraph.DefaultTaskPlanExecutor$TaskExecutorWorker$1.execute(DefaultTaskPlanExecutor.java:104)
+	at org.gradle.execution.taskgraph.DefaultTaskPlanExecutor$TaskExecutorWorker$1.execute(DefaultTaskPlanExecutor.java:98)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionPlan.execute(DefaultTaskExecutionPlan.java:626)
+	at org.gradle.execution.taskgraph.DefaultTaskExecutionPlan.executeWithTask(DefaultTaskExecutionPlan.java:581)
+	at org.gradle.execution.taskgraph.DefaultTaskPlanExecutor$TaskExecutorWorker.run(DefaultTaskPlanExecutor.java:98)
+	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:63)
+	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:46)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
+	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:55)
+	at java.lang.Thread.run(Thread.java:745)
+
